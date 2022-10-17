@@ -30,7 +30,7 @@ require (
 	github.com/golang-collections/go-datastructures v0.0.0-20150211160725-59788d5eb259
 	github.com/golang-jwt/jwt/v4 v4.2.0
 	github.com/golang/mock v1.5.0
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.8
 	github.com/google/renameio v0.1.0
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-multierror v1.1.0
@@ -42,7 +42,7 @@ require (
 	github.com/metal3-io/baremetal-operator v0.0.0-20210317131627-82fd2d7f8daa
 	github.com/moby/moby v20.10.12+incompatible
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.13.0
+	github.com/onsi/gomega v1.22.1
 	github.com/openshift-online/ocm-sdk-go v0.1.190
 	github.com/openshift/api v3.9.1-0.20191111211345-a27ff30ebf09+incompatible
 	github.com/openshift/client-go v0.0.0-20201020074620-f8fd44879f7c
@@ -67,9 +67,8 @@ require (
 	go.elastic.co/apm/module/apmhttp v1.11.0
 	go.elastic.co/apm/module/apmlogrus v1.11.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
-	golang.org/x/tools v0.1.5 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	gopkg.in/ini.v1 v1.51.0
 	gopkg.in/square/go-jose.v2 v2.3.1
 	gopkg.in/yaml.v2 v2.4.0
